@@ -1,0 +1,11 @@
+"truth_kernel","fitted_kernel","rep","original_n_iter","reparam_n_iter","original_runtime","reparam_runtime","fit_status","converged","hit_max","inla_failure"
+"mse","rate_state",2,100,100,5.78846555153529,24.0839546322823,"hit_max",FALSE,TRUE,FALSE
+"mse","rate_state",8,100,100,6.71046013434728,7.76066421667735,"hit_max",FALSE,TRUE,FALSE
+"mse","rate_state",10,100,100,11.0932071328163,15.5506977001826,"hit_max",FALSE,TRUE,FALSE
+"mse","rate_state",11,100,100,4.9432311852773,5.25695594946543,"hit_max",FALSE,TRUE,FALSE
+"mse","rate_state",12,100,7,16.0780939181646,1.82435046831767,"inla_failure",FALSE,FALSE,TRUE
+"rate_state","mse",2,100,100,5.81566484769185,3.07380346854528,"hit_max",FALSE,TRUE,FALSE
+"rate_state","mse",5,100,7,5.41034811735153,0.2449702501297,"converged",TRUE,FALSE,FALSE
+"rate_state","mse",10,100,7,4.94518318573634,0.21630988518397,"converged",TRUE,FALSE,FALSE
+"rate_state","mse",14,100,65,5.51626226504644,1.9018909017245,"converged",TRUE,FALSE,FALSE
+"rate_state","mse",21,100,100,34.3711335341136,15.8713570157687,"hit_max",FALSE,TRUE,FALSE

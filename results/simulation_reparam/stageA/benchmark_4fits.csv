@@ -1,0 +1,5 @@
+"truth_kernel","fitted_kernel","rep","original_n_iter","reparam_n_iter","original_runtime","reparam_runtime","converged","hit_max"
+"mse","rate_state",2,100,100,5.78846555153529,14.9024749835332,FALSE,TRUE
+"mse","rate_state",8,100,100,6.71046013434728,7.76066421667735,FALSE,TRUE
+"rate_state","mse",2,100,100,5.81566484769185,3.07380346854528,FALSE,TRUE
+"rate_state","mse",5,100,7,5.41034811735153,0.2449702501297,TRUE,FALSE
